@@ -42,10 +42,20 @@ Open the notebook in Jupyter and run all cells <br />
 jupyter notebook AstarPathPlanning.ipynb
 
 ## Example / Screenshots
-<p float="left">
-  <img src="images/path_example_before.png" width="45%" />
-  <img src="images/path_example_after.png" width="45%" />
-</p>
+<div style="text-align: center;">
+  <table style="margin: 0 auto;">
+    <tr>
+      <th>Before A*</th>
+      <th>After A*</th>
+    </tr>
+    <tr>
+      <td><img src="images/beforeAStar.png" width="300px" /></td>
+      <td><img src="images/afterAStar.png" width="300px" /></td>
+    </tr>
+  </table>
+</div>
+
+
 
 
 ## How It Works
